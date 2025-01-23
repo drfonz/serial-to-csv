@@ -1,6 +1,6 @@
 # Serial to CSV Logger
 
-Simple Python utility that logs serial port data to CSV files. Designed for capturing sensor data with timestamps and accelerometer readings.
+Simple Python utility that logs serial port data to CSV files. Designed for capturing sensor data as streamed CSV data (e.g. timestamp and accelerometer readings.)
 
 ## Features
 - Direct serial port data logging to CSV
